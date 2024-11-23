@@ -1,0 +1,5 @@
+com.example.diary_management.test-core-1.6.1-0 C:\Users\Icon\.gradle\caches\8.9\transforms\f7a9be892e67878402e9722b599c226c\transformed\core-1.6.1\res
+com.example.diary_management.test-androidTest-1 C:\Users\Icon\AndroidStudioProjects\Diary_Management\build\generated\res\resValues\androidTest\debug
+com.example.diary_management.test-mergeDebugAndroidTestResources-2 C:\Users\Icon\AndroidStudioProjects\Diary_Management\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.diary_management.test-mergeDebugAndroidTestResources-3 C:\Users\Icon\AndroidStudioProjects\Diary_Management\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.diary_management.test-debugAndroidTest-4 C:\Users\Icon\AndroidStudioProjects\Diary_Management\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
