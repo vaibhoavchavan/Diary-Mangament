@@ -1,0 +1,3 @@
+com.example.diary_management.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
